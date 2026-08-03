@@ -18,3 +18,8 @@ Questions (KPIs):
 
    Dash board- <a href="https://github.com/yathamadhivardhanreddy15/DATA-ANALYSIS-OF-HR-DASHBOARD/blob/main/Screenshot%202026-08-01%20193042.pdf">View Dashboard</a>
 
+Process (Power BI Workflow):
+1.	Data ETL (Power Query): Loaded the dataset into Power Query Editor, performed data cleaning, handled missing values, and established correct data types.
+2.	Data Modeling & DAX Measures: Developed DAX (Data Analysis Expressions) measures for dynamic calculations including Attrition Rate %, Active Employees, and Total Headcount.
+3.	Report & Visual Design: Built visual layouts using customized Card visuals, Donut charts, Matrix tables, Funnel charts, and Bar charts for clear data storytelling.
+4.	Interactivity & Dynamic Filtering: Applied page-level Slicers (Department, Age Slabs) and enabled cross-filtering to allow interactive drill-down analysis across all key workforce metrics.
