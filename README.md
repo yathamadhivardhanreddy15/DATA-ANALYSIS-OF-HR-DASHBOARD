@@ -24,7 +24,8 @@ The HR department wants to create an interactive Power BI report to analyze empl
 3.	Report & Visual Design: Built visual layouts using customized Card visuals, Donut charts, Matrix tables, Funnel charts, and Bar charts for clear data storytelling.
 4.	Interactivity & Dynamic Filtering: Applied page-level Slicers (Department, Age Slabs) and enabled cross-filtering to allow interactive drill-down analysis across all key workforce metrics.
 
-# Dashboard
-## Dashboard
+ # Dashboard
+ <img width="483" height="276" alt="Screenshot 2026-08-01 193052" src="https://github.com/user-attachments/assets/4efafea1-8565-4ad7-b9a6-75125510ebad" />
 
-![HR Analytics Dashboard](https://github.com/yathamadhivardhanreddy15/DATA-ANALYSIS-OF-HR-DASHBOARD/blob/main/Screenshot%202026-08-01%20193042.png?raw=true)
+
+
