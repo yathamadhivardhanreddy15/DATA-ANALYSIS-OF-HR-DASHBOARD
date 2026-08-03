@@ -25,7 +25,7 @@ The HR department wants to create an interactive Power BI report to analyze empl
 4.	Interactivity & Dynamic Filtering: Applied page-level Slicers (Department, Age Slabs) and enabled cross-filtering to allow interactive drill-down analysis across all key workforce metrics.
 
  # Dashboard
- <img width="483" height="276" alt="Screenshot 2026-08-01 193052" src="https://github.com/user-attachments/assets/4efafea1-8565-4ad7-b9a6-75125510ebad" />
+ <img width="1345" height="784" alt="Screenshot 2026-08-03 172348" src="https://github.com/user-attachments/assets/524abac5-ee29-45f7-a342-71c69212fc03" />
 
 # Project Insights:
 •	Gender Breakdown: Male employees represent the majority of turnover (~62.66% male vs. 37.34% female).
