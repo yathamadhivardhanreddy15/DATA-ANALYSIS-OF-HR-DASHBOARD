@@ -15,3 +15,6 @@ Questions (KPIs):
 7.	How does total work experience correlate with attrition rates?
 8.	What is the overall employee count breakdown by department?
 
+
+   Dash board- <a href="https://github.com/yathamadhivardhanreddy15/DATA-ANALYSIS-OF-HR-DASHBOARD/blob/main/Screenshot%202026-08-01%20193042.pdf">View Dashboard</a>
+
