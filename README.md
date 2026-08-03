@@ -5,7 +5,7 @@ The HR department wants to create an interactive Power BI report to analyze empl
 -<a href="https://github.com/yathamadhivardhanreddy15/DATA-ANALYSIS-OF-HR-DASHBOARD/blob/main/HR_Analytics-4.csv">Data set</a>
 
 
-Questions (KPIs):
+ # Questions (KPIs):
 1.	What are the core summary KPIs (Total Employees, Active Employees, Attrition Count, Attrition Rate %, Average Age, Average Experience)?
 2.	Which department experiences the highest attrition volume?
 3.	What is the impact of salary brackets (0–3 LPA, 3–6 LPA, 6–10 LPA, 10+ LPA) on turnover?
@@ -18,8 +18,13 @@ Questions (KPIs):
 
    Dash board- <a href="https://github.com/yathamadhivardhanreddy15/DATA-ANALYSIS-OF-HR-DASHBOARD/blob/main/Screenshot%202026-08-01%20193042.pdf">View Dashboard</a>
 
-Process (Power BI Workflow):
+# Process (Power BI Workflow):
 1.	Data ETL (Power Query): Loaded the dataset into Power Query Editor, performed data cleaning, handled missing values, and established correct data types.
 2.	Data Modeling & DAX Measures: Developed DAX (Data Analysis Expressions) measures for dynamic calculations including Attrition Rate %, Active Employees, and Total Headcount.
 3.	Report & Visual Design: Built visual layouts using customized Card visuals, Donut charts, Matrix tables, Funnel charts, and Bar charts for clear data storytelling.
 4.	Interactivity & Dynamic Filtering: Applied page-level Slicers (Department, Age Slabs) and enabled cross-filtering to allow interactive drill-down analysis across all key workforce metrics.
+
+# Dashboard
+## Dashboard
+
+![HR Analytics Dashboard](https://github.com/yathamadhivardhanreddy15/DATA-ANALYSIS-OF-HR-DASHBOARD/blob/main/Screenshot%202026-08-01%20193042.png?raw=true)
